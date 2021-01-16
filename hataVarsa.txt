@@ -1,0 +1,6 @@
+bu iki parametreyi cmd üzerinde girmelisin
+
+pip install requests
+
+pip install tkinter
+
